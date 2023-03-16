@@ -1,0 +1,4 @@
+/api
+.env
+notes.txt
+Pipfile.lock
